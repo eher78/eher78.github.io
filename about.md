@@ -16,4 +16,5 @@ Whenever I am not working on my personal projects, I enjoy reading classic books
 
 ### Contact me
 
-[abrahamschaecher@outlook.com](mailto:abrahamschaecher@outlook.com)
+<!-- [abrahamschaecher[at]outlook.com](mailto:abrahamschaecher@outlook.com) -->
+abrahamschaecher{at}outlook.com
