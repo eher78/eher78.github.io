@@ -10,8 +10,6 @@ published: true
 
 <!--The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.-->
 
-# Seven Wonders Artistic and Computational Research - Introduction
-
 Throughout history, the Seven Wonders of the Ancient World were a representation of the achievements people constructured in regards to culture, arts, and societal communication. These seven constructions are represented by some historians as some of the earliest developments of the ancient world. All except for one structure (Great Pyramid of Giza) has been destroyed or lost in history by human and environmental factors. The list of the remaining structures part of the Seven Wonders includes:
 
 - Hanging Gardens of Babylon
