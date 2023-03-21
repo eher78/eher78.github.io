@@ -10,7 +10,9 @@ published: true
 
 <!--The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.-->
 
-Throughout history, the Seven Wonders of the Ancient World were a representation of the achievements people constructured in regards to culture, arts, and societal communication. These seven constructions are represented by some historians as some of the earliest developments of the ancient world. All except for one structure (Great Pyramid of Giza) has been destroyed or lost in history by human and environmental factors. The list of the remaining structures part of the Seven Wonders includes:
+## What are the Seven Wonders of the Ancient World?
+
+Throughout history, the Seven Wonders of the Ancient World were a representation of the achievements people constructured in regards to culture, arts, and societal communication during the classical era. These seven constructions are represented by some historians as some of the earliest developments of the ancient world. All except for one structure (Great Pyramid of Giza) has been destroyed or lost in history by human and environmental factors. The list of the remaining structures part of the Seven Wonders includes:
 
 - Hanging Gardens of Babylon
 - Statue of Zeus at Olympia
@@ -19,6 +21,8 @@ Throughout history, the Seven Wonders of the Ancient World were a representation
 - Colossus of Rhodes
 - Lighthouse of Alexandria
 
+
+## Motivation
 My goal or scope of this visual project is to attempt and recreate some of these constructions using a generative adversial networks from primary sources in an attempt to be as historically accurate as possible. Understandibly, there has been history of some recreations and reconstructions with some images but the purpose of this is determing what the capabilities of machine learning can be used to evaluate a historically significant construction given some documented context. 
 
 In addition, the other key aspect of this project is to represent a two dimensional image with a three dimensional object from the image. This is to not only capture some of the finer details within an image but also understand the loss and physical fragments of a history that once existed thousands of years ago.
@@ -45,3 +49,6 @@ and so much more.
 Stay tuned to hear the upcoming developments on this project!
 
 -Abraham Schaecher
+
+### References
+- https://en.wikipedia.org/wiki/Seven_Wonders_of_the_Ancient_World
