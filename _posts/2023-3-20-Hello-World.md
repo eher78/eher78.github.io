@@ -42,9 +42,9 @@ Throughout the rest of the year, I will be posting some updates in regards to my
 - Sources towards the Seven Wonders
 - Color Analysis on Images
 - "Generational" Loss in regards to Text
-- Textual Analysis
+- Textual Analysis on Historical Sources
 
-and so much more.
+and so much more....
 
 Stay tuned to hear the upcoming developments on this project!
 
